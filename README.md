@@ -1,5 +1,5 @@
 # awesome-msr [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated repository of data sets and tools that can be used for data-based empirical software engineering, a method also known as _mining software repositories_. For examples of such work see the [Mining Software Repositories](http://2016.msrconf.org/#/hall-of-fame) conference.
+A curated repository of data sets and tools that can be used for data-driven empirical software engineering, a method also known as _mining software repositories_. For examples of such work see the [Mining Software Repositories](http://2016.msrconf.org/#/hall-of-fame) conference.
 
 
 This list is under construction and requires your input. Please contribute additions through a GitHub pull request.  (Or send me an [email](mailto:dds@aueb.gr) if you find that too cumbersome.)
