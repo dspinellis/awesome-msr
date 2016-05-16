@@ -2,7 +2,7 @@
 A curated repository of data sets that can be used for empirical software engineering, a method also known as _mining software repositories_. For examples of such work see the [Mining Software Repositories](http://2016.msrconf.org/#/hall-of-fame) conference.
 
 
-Contribute additions through a GitHub pull request.
+This list is under construction and requires your input. Please contribute additions through a GitHub pull request.  (Or send me an [email](mailto:dds@aueb.gr) if you find that too cumbersome.)
 
 For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 
