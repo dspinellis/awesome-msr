@@ -12,6 +12,7 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 * [Code Reviews](http://kin-y.github.io/miningReviewRepo/) - Code reviews of OpenStack, LibreOffice, AOSP, Qt, Eclipse
 * [GHTorrent](http://ghtorrent.org/) - an effort to create a scalable, queriable, offline mirror of data offered through the Github REST API
 * [mzdata](https://github.com/jxshin/mzdata) -  Multi-extract and Multi-level Dataset of Mozilla Issue Tracking History 
+* [Unix history](https://github.com/dspinellis/unix-history-repo) - a Git repository with 46 years of Unix history evolution
 
 ## Tools
 * Your input here
