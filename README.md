@@ -13,6 +13,7 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 * [GHTorrent](http://ghtorrent.org/) - an effort to create a scalable, queriable, offline mirror of data offered through the Github REST API
 * [mzdata](https://github.com/jxshin/mzdata) -  Multi-extract and Multi-level Dataset of Mozilla Issue Tracking History
 * [tera-PROMISE](http://openscience.us/repo/) - a research dataset repository specializing in software engineering research datasets
+* [TravisTorrent](http://travistorrent.testroots.org) - TravisTorrent provides free and easy-to-use Traivs CI build analyses.
 * [Unix history](https://github.com/dspinellis/unix-history-repo) - a Git repository with 46 years of Unix history evolution
 
 ## Tools
