@@ -11,6 +11,8 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 * [Boa](http://boa.cs.iastate.edu/) - a domain-specific language and infrastructure that eases mining software repositories
 * [Code Reviews](http://kin-y.github.io/miningReviewRepo/) - Code reviews of OpenStack, LibreOffice, AOSP, Qt, Eclipse
 * [GHTorrent](http://ghtorrent.org/) - an effort to create a scalable, queriable, offline mirror of data offered through the Github REST API
+* [Findbugs-maven](https://github.com/bkarak/data_msr2015) - a set of findbugs reports for the Java projects of the [Maven repository](https://maven.apache.org)
+* [Metrics-maven](https://github.com/bkarak/data_msr2015) - a collection of software complexity & sizing metrics for the [Maven Repository](https://maven.apache.org)
 * [mzdata](https://github.com/jxshin/mzdata) -  Multi-extract and Multi-level Dataset of Mozilla Issue Tracking History
 * [Stack Exchange](https://archive.org/details/stackexchange) - an anonymized dump of all user-contributed content on the Stack Exchange network.
 * [tera-PROMISE](http://openscience.us/repo/) - a research dataset repository specializing in software engineering research datasets
