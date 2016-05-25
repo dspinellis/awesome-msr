@@ -10,6 +10,7 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 * [AndroZoo](https://androzoo.uni.lu/) - a growing collection of Android Applications
 * [Boa](http://boa.cs.iastate.edu/) - a domain-specific language and infrastructure that eases mining software repositories
 * [Code Reviews](http://kin-y.github.io/miningReviewRepo/) - Code reviews of OpenStack, LibreOffice, AOSP, Qt, Eclipse
+* [Enron Spreadsheets and Emails](https://figshare.com/articles/Enron_Spreadsheets_and_Emails/1221767) - all the spreadsheets and emails used in the paper 'Enron's Spreadsheets and Related Emails: A Dataset and Analysis'
 * [Findbugs-maven](https://github.com/bkarak/data_msr2015) - a set of FindBugs reports for the Java projects of the [Maven repository](https://maven.apache.org)
 * [GHTorrent](http://ghtorrent.org/) - an effort to create a scalable, queriable, offline mirror of data offered through the Github REST API
 * [Maven metrics](https://github.com/bkarak/data_msr2015) - a collection of software complexity & sizing metrics for the [Maven Repository](https://maven.apache.org)
