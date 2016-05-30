@@ -21,8 +21,9 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 * [Unix history](https://github.com/dspinellis/unix-history-repo) - a Git repository with 46 years of Unix history evolution
 
 ## Tools
-* Your input goes here
 
+* [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - a lean Java DSL to
+mine and extract data from Git and SVN repositories
 
 ## License
 
