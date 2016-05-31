@@ -23,7 +23,7 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 ## Tools
 
 * [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - a lean Java DSL to
-mine and extract data from Git and SVN repositories
+mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories
 
 ## License
 
