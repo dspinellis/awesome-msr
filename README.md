@@ -15,6 +15,7 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 * [GHTorrent](http://ghtorrent.org/) - an effort to create a scalable, queriable, offline mirror of data offered through the Github REST API
 * [Maven metrics](https://github.com/bkarak/data_msr2015) - a collection of software complexity & sizing metrics for the [Maven Repository](https://maven.apache.org)
 * [mzdata](https://github.com/jxshin/mzdata) -  Multi-extract and Multi-level Dataset of Mozilla Issue Tracking History
+* [RepoReapers Data Set](https://reporeapers.github.io) - A data set containing a collection of _engineered software projects_ from GHTorrent.
 * [Stack Exchange](https://archive.org/details/stackexchange) - an anonymized dump of all user-contributed content on the Stack Exchange network.
 * [tera-PROMISE](http://openscience.us/repo/) - a research dataset repository specializing in software engineering research datasets
 * [TravisTorrent](http://travistorrent.testroots.org) - TravisTorrent provides free and easy-to-use Traivs CI build analyses.
@@ -25,6 +26,7 @@ For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 * [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - a lean Java DSL to
 mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories
 * [qmcalc](https://github.com/dspinellis/cqmetrics) - calculate quality metrics from C source code
+* [`reaper`](https://github.com/RepoReapers/reaper) - A Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
 
 ## License
 
