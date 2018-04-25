@@ -3,9 +3,12 @@ A curated repository of data sets and tools that can be used for data-driven emp
 Many of the data set can also be useful in research using [search-based software engineering](https://en.wikipedia.org/wiki/Search-based_software_engineering).
 
 
-This list is under construction and requires your input. Please contribute additions through a GitHub pull request.  (Or send me an [email](mailto:dds@aueb.gr) if you find that too cumbersome.) The additions you specify should be genuinely useful to MSR and SBSE researchers; the objective of this list is utility rather than comprehensiveness.
-
-For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
+- This list requires your input for its continuous improvement.
+  Read the [contribution guide](contributing.md) for instructions on how
+  you can contribute.
+  Alternatively, you can send me an [email](mailto:dds@aueb.gr)
+  if you find the process too cumbersome or confusing.)
+- For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 
 ## Data Sets
 * [AndroZoo](https://androzoo.uni.lu/) - a growing collection of Android Applications
