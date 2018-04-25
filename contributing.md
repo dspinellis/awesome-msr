@@ -25,6 +25,7 @@ Please ensure your pull request adheres to the following guidelines.
   the objective of this list is utility rather than comprehensiveness.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[Data Set Name](link) - description`
+- Maintain alphabetic ordering when adding items.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
