@@ -10,7 +10,14 @@ Many of the data set can also be useful in research using [search-based software
   if you find the process too cumbersome or confusing.
 - For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 
+## Contents
+
+- [Data Sets](#data-sets)
+- [Tools](#tools)
+
+
 ## Data Sets
+
 * [AndroZoo](https://androzoo.uni.lu/) - A growing collection of Android Applications
 * [Boa](http://boa.cs.iastate.edu/) - A domain-specific language and infrastructure that eases mining software repositories
 * [Bug Prediction Dataset](http://bug.inf.usi.ch/index.php) - A collection of models and metrics from Eclipse JDT Core, PDE UI, Equinox Framework, Lucene, Mylyn, and their histories 
@@ -33,6 +40,7 @@ Many of the data set can also be useful in research using [search-based software
 * [Unix history](https://github.com/dspinellis/unix-history-repo) - A Git repository with 46 years of Unix history evolution
 
 ## Tools
+
 * [ckjm](http://www.spinellis.gr/sw/ckjm/) - Chidamber and Kemerer Java Metrics
 * [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - A lean Java DSL to
 mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories
