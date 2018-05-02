@@ -35,10 +35,14 @@ Many of the data set can also be useful in research using [search-based software
 * [SIR](http://sir.unl.edu/portal/index.php) - Software-artifact infrastructure repository; Java, C, C++, and C# software together with test suites and fault data
 * [STAMINA](http://stamina.chefbe.net/download) - (STAte Machine INference Approaches) data are used to benchmark techniques for learning deterministic finite state machines (FSMs)
 * [Stack Exchange](https://archive.org/details/stackexchange) - An anonymized dump of all user-contributed content on the Stack Exchange network.
-* [tera-PROMISE](http://openscience.us/repo/) - A research dataset repository specializing in software engineering research datasets. This has now been moved to [Zenodo](https://zenodo.org) and is called [SeaCraft](http://zenodo.org/communities/seacraft)
+* [tera-PROMISE](http://openscience.us/repo/) - A research dataset repository specializing in software engineering research datasets.
 * [TravisTorrent](http://travistorrent.testroots.org) - Provides free and easy-to-use Traivs CI build analyses.
 * [Unix history](https://github.com/dspinellis/unix-history-repo) - A Git repository with 46 years of Unix history evolution
-
+* [Zenodo](http://zenodo.org/) - operated by CERN, contains several collections about software data:
+  * [Software Engineering Artifacts Can Really Assist Future Tasks ](http://zenodo.org/communities/seacraft)
+  * [Empirical Software Engineering](https://zenodo.org/communities/empirical-software-engineering/)
+  * [Mining Software Repositories](https://zenodo.org/communities/msr/)
+  
 ## Tools
 
 * [ckjm](http://www.spinellis.gr/sw/ckjm/) - Chidamber and Kemerer Java Metrics
