@@ -30,8 +30,8 @@ Many of the data set can also be useful in research using [search-based software
 * [KaVE](http://www.kave.cc/datasets) - Developer tool interaction data
 * [Maven metrics](https://github.com/bkarak/data_msr2015) - A collection of software complexity & sizing metrics for the [Maven Repository](https://maven.apache.org)
 * [mzdata](https://github.com/jxshin/mzdata) - Multi-extract and multi-level dataset of Mozilla issue tracking history
+* [OCL Expressions on GitHub](https://github.com/tue-mdse/ocl-dataset) - A data set of 9188 OCL expressions originating from 504 EMF meta-models in 245 systematically selected GitHub repositories.
 * [RepoReapers Data Set](https://reporeapers.github.io) - A data set containing a collection of _engineered software projects_ from GHTorrent.
-* [OCL Expressions on GitHub] (https://github.com/tue-mdse/ocl-dataset) - A data set of 9188 OCL expressions originating from 504 EMF meta-models in 245 systematically selected GitHub repositories.
 * [SIR](http://sir.unl.edu/portal/index.php) - Software-artifact infrastructure repository; Java, C, C++, and C# software together with test suites and fault data
 * [STAMINA](http://stamina.chefbe.net/download) - (STAte Machine INference Approaches) data are used to benchmark techniques for learning deterministic finite state machines (FSMs)
 * [Stack Exchange](https://archive.org/details/stackexchange) - An anonymized dump of all user-contributed content on the Stack Exchange network.
