@@ -19,7 +19,7 @@ Many of the data set can also be useful in research using [search-based software
 ## Data Sets
 
 * [AndroZoo](https://androzoo.uni.lu/) - A growing collection of Android Applications
-* [Bug Prediction Dataset](http://bug.inf.usi.ch/index.php) - A collection of models and metrics from Eclipse JDT Core, PDE UI, Equinox Framework, Lucene, Mylyn, and their histories 
+* [Bug Prediction Dataset](http://bug.inf.usi.ch/index.php) - A collection of models and metrics from Eclipse JDT Core, PDE UI, Equinox Framework, Lucene, Mylyn, and their histories
 * [Code Reviews](http://kin-y.github.io/miningReviewRepo/) - Code reviews of OpenStack, LibreOffice, AOSP, Qt, Eclipse
 * [CoREBench](http://www.comp.nus.edu.sg/%7Erelease/corebench/) - A collection of 70 realistically Complex Regression Errors that were systematically extracted from the repositories and bug reports of four open-source software projects: Make, Grep, Findutils, and Coreutils
 * [Defects4J](https://github.com/rjust/defects4j) - A collection of 395 reproducible bugs collected with the goal of advancing software testing research
@@ -47,6 +47,7 @@ mine and extract data (e.g. commits, developers, modifications, diffs) from Git 
 * [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code
 * [reaper](https://github.com/RepoReapers/reaper) - A Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
 * [Boa](http://boa.cs.iastate.edu/) - A domain-specific language and infrastructure that eases mining software repositories
+* [Diggit](https://github.com/jrfaller/diggit) - An agile ruby tool to analyze git repositories
 
 ## License
 
