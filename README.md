@@ -18,26 +18,26 @@ Many of the data set can also be useful in research using [search-based software
 
 ## Data Sets
 
-* [AndroZoo](https://androzoo.uni.lu/) - A growing collection of Android Applications
-* [Bug Prediction Dataset](http://bug.inf.usi.ch/index.php) - A collection of models and metrics from Eclipse JDT Core, PDE UI, Equinox Framework, Lucene, Mylyn, and their histories
+* [AndroZoo](https://androzoo.uni.lu/) - Collection of Android Applications
+* [Bug Prediction Dataset](http://bug.inf.usi.ch/index.php) - Collection of models and metrics from Eclipse JDT Core, PDE UI, Equinox Framework, Lucene, Mylyn, and their histories
 * [Code Reviews](http://kin-y.github.io/miningReviewRepo/) - Code reviews of OpenStack, LibreOffice, AOSP, Qt, Eclipse
-* [CoREBench](http://www.comp.nus.edu.sg/%7Erelease/corebench/) - A collection of 70 realistically Complex Regression Errors that were systematically extracted from the repositories and bug reports of four open-source software projects: Make, Grep, Findutils, and Coreutils
-* [Defects4J](https://github.com/rjust/defects4j) - A collection of 395 reproducible bugs collected with the goal of advancing software testing research
+* [CoREBench](http://www.comp.nus.edu.sg/%7Erelease/corebench/) - Collection of 70 realistically Complex Regression Errors that were systematically extracted from the repositories and bug reports of four open-source software projects: Make, Grep, Findutils, and Coreutils
+* [Defects4J](https://github.com/rjust/defects4j) - Collection of 395 reproducible bugs collected with the goal of advancing software testing research
 * [Enron Spreadsheets and Emails](https://figshare.com/articles/Enron_Spreadsheets_and_Emails/1221767) - All the spreadsheets and emails used in the paper 'Enron's Spreadsheets and Related Emails: A Dataset and Analysis'
-* [Findbugs-maven](https://github.com/istlab/maven_bug_catalog) - A set of FindBugs reports for the Java projects of the [Maven repository](https://maven.apache.org)
-* [GHTorrent](http://ghtorrent.org/) - A scalable, queriable, offline mirror of data offered through the Github REST API
+* [Findbugs-maven](https://github.com/istlab/maven_bug_catalog) - Set of FindBugs reports for the Java projects of the [Maven repository](https://maven.apache.org)
+* [GHTorrent](http://ghtorrent.org/) - Scalable, queriable, offline mirror of data offered through the Github REST API
 * [GitHub on Google BigQuery](https://cloud.google.com/bigquery/public-data/github) - GitHub data accessible through Google's BigQuery platform
 * [KaVE](http://www.kave.cc/datasets) - Developer tool interaction data
-* [Maven metrics](https://github.com/bkarak/data_msr2015) - A collection of software complexity & sizing metrics for the [Maven Repository](https://maven.apache.org)
+* [Maven metrics](https://github.com/bkarak/data_msr2015) - Collection of software complexity & sizing metrics for the [Maven Repository](https://maven.apache.org)
 * [mzdata](https://github.com/jxshin/mzdata) - Multi-extract and multi-level dataset of Mozilla issue tracking history
-* [OCL Expressions on GitHub](https://github.com/tue-mdse/ocl-dataset) - A data set of 9188 OCL expressions originating from 504 EMF meta-models in 245 systematically selected GitHub repositories.
-* [RepoReapers Data Set](https://reporeapers.github.io) - A data set containing a collection of _engineered software projects_ from GHTorrent.
+* [OCL Expressions on GitHub](https://github.com/tue-mdse/ocl-dataset) - Data set of 9188 OCL expressions originating from 504 EMF meta-models in 245 systematically selected GitHub repositories.
+* [RepoReapers Data Set](https://reporeapers.github.io) - Data set containing a collection of _engineered software projects_ from GHTorrent.
 * [SIR](http://sir.unl.edu/portal/index.php) - Software-artifact infrastructure repository; Java, C, C++, and C# software together with test suites and fault data
 * [STAMINA](http://stamina.chefbe.net/download) - (STAte Machine INference Approaches) data are used to benchmark techniques for learning deterministic finite state machines (FSMs)
-* [Stack Exchange](https://archive.org/details/stackexchange) - An anonymized dump of all user-contributed content on the Stack Exchange network.
-* [tera-PROMISE](http://openscience.us/repo/) - A research dataset repository specializing in software engineering research datasets.
+* [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
+* [tera-PROMISE](http://openscience.us/repo/) - Research dataset repository specializing in software engineering research datasets.
 * [TravisTorrent](http://travistorrent.testroots.org) - Provides free and easy-to-use Traivs CI build analyses.
-* [Unix history](https://github.com/dspinellis/unix-history-repo) - A Git repository with 46 years of Unix history evolution
+* [Unix history](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution
 * [Zenodo](http://zenodo.org/) - operated by CERN, contains several collections about software data:
   * [Software Engineering Artifacts Can Really Assist Future Tasks ](http://zenodo.org/communities/seacraft)
   * [Empirical Software Engineering](https://zenodo.org/communities/empirical-software-engineering/)
@@ -46,12 +46,12 @@ Many of the data set can also be useful in research using [search-based software
 ## Tools
 
 * [ckjm](http://www.spinellis.gr/sw/ckjm/) - Chidamber and Kemerer Java Metrics
-* [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - A lean Java DSL to
+* [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - Lean Java DSL to
 mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories
 * [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code
-* [reaper](https://github.com/RepoReapers/reaper) - A Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
-* [Boa](http://boa.cs.iastate.edu/) - A domain-specific language and infrastructure that eases mining software repositories
-* [Diggit](https://github.com/jrfaller/diggit) - An agile ruby tool to analyze git repositories
+* [reaper](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
+* [Boa](http://boa.cs.iastate.edu/) - Domain-specific language and infrastructure that eases mining software repositories
+* [Diggit](https://github.com/jrfaller/diggit) - Agile Ruby Tool to analyze Git repositories
 
 ## License
 

@@ -24,7 +24,8 @@ Please ensure your pull request adheres to the following guidelines.
   researchers;
   the objective of this list is utility rather than comprehensiveness.
 - Make an individual pull request for each suggestion.
-- Use the following format: `[Data Set Name](link) - Description`
+- Use the following format: `[Data Set Name](link) - Description`.
+- Do not start the description with *A* or *An*.
 - Maintain alphabetic ordering when adding items.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
