@@ -53,6 +53,7 @@ mine and extract data (e.g. commits, developers, modifications, diffs) from Git 
 * [reaper](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
 * [Boa](http://boa.cs.iastate.edu/) - Domain-specific language and infrastructure that eases mining software repositories
 * [Diggit](https://github.com/jrfaller/diggit) - Agile Ruby Tool to analyze Git repositories
+* [GrimoireLab](http://grimoirelab.github.io/): Free/Libre/Open Source tools for Software Development Analytics
 
 ## License
 
