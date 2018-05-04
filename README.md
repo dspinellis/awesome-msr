@@ -37,8 +37,8 @@ Many of the data set can also be useful in research using [search-based software
 * [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
 * [tera-PROMISE](http://openscience.us/repo/) - Research dataset repository specializing in software engineering research datasets.
 * [TravisTorrent](http://travistorrent.testroots.org) - Provides free and easy-to-use Traivs CI build analyses.
-* [Unix history](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution
 * [UML in OSS](http://oss.models-db.com/) - More than 93,000 UML files (collected from more than 24,000 GitHub repositories)
+* [Unix history](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution
 * [Zenodo](http://zenodo.org/) - operated by CERN, contains several collections about software data:
   * [Software Engineering Artifacts Can Really Assist Future Tasks ](http://zenodo.org/communities/seacraft)
   * [Empirical Software Engineering](https://zenodo.org/communities/empirical-software-engineering/)
@@ -53,7 +53,7 @@ mine and extract data (e.g. commits, developers, modifications, diffs) from Git 
 * [reaper](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
 * [Boa](http://boa.cs.iastate.edu/) - Domain-specific language and infrastructure that eases mining software repositories
 * [Diggit](https://github.com/jrfaller/diggit) - Agile Ruby Tool to analyze Git repositories
-* [GrimoireLab](http://grimoirelab.github.io/): Free/Libre/Open Source tools for Software Development Analytics
+* [GrimoireLab](http://grimoirelab.github.io/) - Free/Libre/Open Source tools for Software Development Analytics
 
 ## License
 
