@@ -23,6 +23,7 @@ Many of the data set can also be useful in research using [search-based software
 * [Code Reviews](http://kin-y.github.io/miningReviewRepo/) - Code reviews of OpenStack, LibreOffice, AOSP, Qt, Eclipse
 * [CoREBench](http://www.comp.nus.edu.sg/%7Erelease/corebench/) - Collection of 70 realistically Complex Regression Errors that were systematically extracted from the repositories and bug reports of four open-source software projects: Make, Grep, Findutils, and Coreutils
 * [Defects4J](https://github.com/rjust/defects4j) - Collection of 395 reproducible bugs collected with the goal of advancing software testing research
+* [Eclipse AERI stacktraces](https://software-data.org/datasets/aeri-stacktraces) - Collection of stacktraces of Exceptions encountered by users of the Eclipse IDE, as retrieved by the AERI reporting system.
 * [Enron Spreadsheets and Emails](https://figshare.com/articles/Enron_Spreadsheets_and_Emails/1221767) - All the spreadsheets and emails used in the paper 'Enron's Spreadsheets and Related Emails: A Dataset and Analysis'
 * [Findbugs-maven](https://github.com/istlab/maven_bug_catalog) - Set of FindBugs reports for the Java projects of the [Maven repository](https://maven.apache.org)
 * [GHTorrent](http://ghtorrent.org/) - Scalable, queriable, offline mirror of data offered through the Github REST API
