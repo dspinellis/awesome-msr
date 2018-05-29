@@ -40,6 +40,7 @@ Many of the data set can also be useful in research using [search-based software
 * [KaVE](http://www.kave.cc/datasets) - Developer tool interaction data
 * [Maven metrics](https://github.com/bkarak/data_msr2015) - Collection of software complexity & sizing metrics for the [Maven Repository](https://maven.apache.org)
 * [mzdata](https://github.com/jxshin/mzdata) - Multi-extract and multi-level dataset of Mozilla issue tracking history
+* [npm-miner](https://github.com/AuthEceSoftEng/msr-2018-npm-miner) - The dataset contains the analysis results of 5 open source software quality tools eslint, escomplex, nsp, jsinspect and sonarjs for 2000 popular (in terms of stars and downloads) npm packages.
 * [OCL Expressions on GitHub](https://github.com/tue-mdse/ocl-dataset) - Data set of 9188 OCL expressions originating from 504 EMF meta-models in 245 systematically selected GitHub repositories.
 * [RepoReapers Data Set](https://reporeapers.github.io) - Data set containing a collection of _engineered software projects_ from GHTorrent.
 * [STAMINA](http://stamina.chefbe.net/download) - (STAte Machine INference Approaches) data are used to benchmark techniques for learning deterministic finite state machines (FSMs)
