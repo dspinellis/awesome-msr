@@ -48,18 +48,18 @@ Many of the data set can also be useful in research using [search-based software
 * [TravisTorrent](http://travistorrent.testroots.org) - Provides free and easy-to-use Traivs CI build analyses.
 * [UML in OSS](http://oss.models-db.com/) - More than 93,000 UML files (collected from more than 24,000 GitHub repositories)
 * [Unix history](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution
-  
+
 ## Tools
 
-* [ckjm](http://www.spinellis.gr/sw/ckjm/) - Chidamber and Kemerer Java Metrics
-* [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - Lean Java DSL to
-mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories
-* [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code
-* [reaper](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
 * [Boa](http://boa.cs.iastate.edu/) - Domain-specific language and infrastructure that eases mining software repositories
+* [ckjm](http://www.spinellis.gr/sw/ckjm/) - Chidamber and Kemerer Java Metrics
 * [Diggit](https://github.com/jrfaller/diggit) - Agile Ruby Tool to analyze Git repositories
 * [GrimoireLab](http://grimoirelab.github.io/) - Free/Libre/Open Source tools for Software Development Analytics
+* [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - Lean Java DSL to
+mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories
 * [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories
+* [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code
+* [reaper](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
 
 ## License
 
