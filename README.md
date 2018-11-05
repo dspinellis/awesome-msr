@@ -59,6 +59,7 @@ mine and extract data (e.g. commits, developers, modifications, diffs) from Git 
 * [Boa](http://boa.cs.iastate.edu/) - Domain-specific language and infrastructure that eases mining software repositories
 * [Diggit](https://github.com/jrfaller/diggit) - Agile Ruby Tool to analyze Git repositories
 * [GrimoireLab](http://grimoirelab.github.io/) - Free/Libre/Open Source tools for Software Development Analytics
+* [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories
 
 ## License
 
