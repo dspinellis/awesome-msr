@@ -18,7 +18,7 @@ Many of the data set can also be useful in research using [search-based software
 ## Repositories
 
 * [SIR](http://sir.unl.edu/portal/index.php) - Software-artifact infrastructure repository; Java, C, C++, and C# software together with test suites and fault data
-* [tera-PROMISE](http://openscience.us/repo/) - Research dataset repository specializing in software engineering research datasets.
+* [PROMISE](http://promise.site.uottawa.ca/SERepository/datasets-page.html) - About 20 datasets related to software engineering research
 * [FLOSSmole](https://flossmole.org/collection_details) - Collaborative collection and analysis of free/libre/open source project data
 * [Zenodo](http://zenodo.org/) - operated by CERN, contains several collections about software data:
   * [Software Engineering Artifacts Can Really Assist Future Tasks ](http://zenodo.org/communities/seacraft)
