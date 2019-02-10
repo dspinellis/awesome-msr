@@ -64,6 +64,7 @@ mine and extract data (e.g. commits, developers, modifications, diffs) from Git 
 * [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories
 * [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code
 * [reaper](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
+* [VulData7](https://github.com/electricalwind/data7) - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git).
 
 ## License
 
