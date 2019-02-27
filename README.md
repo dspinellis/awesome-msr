@@ -17,6 +17,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [Repositories](#repositories)
 - [Data Sets](#data-sets)
 - [Tools](#tools)
+- [Research Outlets](#research-outlets)
 
 ## Repositories
 
@@ -67,6 +68,21 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code.
 - [reaper](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
 - [VulData7](https://github.com/electricalwind/data7) - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git).
+
+## Research Outlets
+- Outlets exclusively devoted to empirical software engineering research
+  - [Empirical Software Engineering journal](https://link.springer.com/journal/10664)
+  - [MSR: Mining Software Repositories conference](https://www.msrconf.org/)
+  - [PROMISE: Predictive Models and Data Analytics in Software Engineering conference](http://promisedata.org/)
+- Outlets that publish empirical software engineering research
+  - [ACM Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/citation.cfm?id=J790)
+  - [ESEC/FSE: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering](https://www.esec-fse.org/)
+  - [ICSE: International Conference on Software Engineering](http://www.icse-conferences.org/)
+  - [IEEE Software magazine](https://publications.computer.org/software-magazine/)
+  - [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+  - [Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software)
+  - [SANER: IEEE International Conference on Software Analysis, Evolution and Reengineering](https://ieeexplore.ieee.org/servlet/opac?punumber=1000695)
+
 
 ## License
 
