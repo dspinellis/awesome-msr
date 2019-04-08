@@ -1,4 +1,4 @@
-# Awesome Empirical Software Engineering Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Empirical Software Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated repository of data sets and tools that can be used for conducting evidence-based, data-driven research on software systems.
 This research approach is often termed [experimental, or empirical software engineering](https://en.wikipedia.org/wiki/Experimental_software_engineering).
 Many of the data sets can also be useful in research using [search-based software engineering](https://en.wikipedia.org/wiki/Search-based_software_engineering) methods.
