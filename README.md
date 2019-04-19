@@ -78,9 +78,9 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   - [ESEC/FSE: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering](https://www.esec-fse.org/)
   - [ICSE: International Conference on Software Engineering](http://www.icse-conferences.org/)
   - [IEEE Software magazine](https://publications.computer.org/software-magazine/)
-  - [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+  - [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)
   - [Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software)
-  - [SANER: IEEE International Conference on Software Analysis, Evolution and Reengineering](https://ieeexplore.ieee.org/servlet/opac?punumber=1000695)
+  - [SANER: IEEE International Conference on Software Analysis, Evolution and Reengineering](https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000695)
 
 
 ## License
