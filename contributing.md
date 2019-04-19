@@ -23,6 +23,9 @@ Please ensure your pull request adheres to the following guidelines.
   The additions you specify should be genuinely useful to MSR and SBSE
   researchers;
   the objective of this list is utility rather than comprehensiveness.
+- Ensure the provided link is a stable URL. The golden standard
+  is a DOI, which you can e.g. easily obtain for data you upload on
+  [Zenodo](http://zenodo.org/).
 - Make an individual pull request for each suggestion.
 - Use the following format: `[Data Set Name](link) - Description`.
 - Do not start the description with *A* or *An*.
