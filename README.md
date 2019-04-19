@@ -53,7 +53,6 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
 - [TravisTorrent](http://travistorrent.testroots.org) - Provides free and easy-to-use Traivs CI build analyses.
 - [Ultimate Debian Database (UDD)](https://wiki.debian.org/UltimateDebianDatabase) - Data about various aspects of Debian (e.g. packages, bugs, mainteners) in the same SQL database.
-- [UML in OSS](http://oss.models-db.com/) - More than 93,000 UML files (collected from more than 24,000 GitHub repositories).
 - [Unix history](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution.
 
 ## Tools
