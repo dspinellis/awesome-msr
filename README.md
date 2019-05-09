@@ -66,7 +66,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [GrimoireLab](http://grimoirelab.github.io/) - Free/Libre/Open Source tools for Software Development Analytics.
 - [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - Lean Java DSL to mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories.
 - [Maven-miner](https://github.com/diverse-project/maven-miner) - Java tools and infrastructure to resolve the whole Maven dependency graph, hosted in Maven Central, in the form of a [Neo4j](https://neo4j.com/) Graph.
-- [Puppeteer](https://github.com/tushartushar/Puppeteer) - Detect configuration smells in Puppet code
+- [Puppeteer](https://github.com/tushartushar/Puppeteer) - Detect configuration smells in Puppet code.
 - [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories.
 - [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code.
 - [reaper](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
