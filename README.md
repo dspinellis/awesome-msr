@@ -59,14 +59,14 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 - [Boa](http://boa.cs.iastate.edu/) - Domain-specific language and infrastructure that eases mining software repositories.
 - [ckjm](http://www.spinellis.gr/sw/ckjm/) - Chidamber and Kemerer Java Metrics.
-- [DbDeo] (https://github.com/tushartushar/DbDeo) - Extract embedded SQL statements and detect database schema smells.
+- [DbDeo](https://github.com/tushartushar/DbDeo) - Extract embedded SQL statements and detect database schema smells.
 - [Designite](http://www.designite-tools.com) - Compute source code metrics and detect a variety of implementation, design, and architecture smells for C#.
 - [DesigniteJava](https://github.com/tushartushar/DesigniteJava) - Compute source code metrics and detect a variety of implementation and design smells for Java.
 - [Diggit](https://github.com/jrfaller/diggit) - Agile Ruby Tool to analyze Git repositories.
 - [GrimoireLab](http://grimoirelab.github.io/) - Free/Libre/Open Source tools for Software Development Analytics.
 - [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - Lean Java DSL to mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories.
 - [Maven-miner](https://github.com/diverse-project/maven-miner) - Java tools and infrastructure to resolve the whole Maven dependency graph, hosted in Maven Central, in the form of a [Neo4j](https://neo4j.com/) Graph.
-- [Puppeteer] (https://github.com/tushartushar/Puppeteer) - Detect configuration smells in Puppet code
+- [Puppeteer](https://github.com/tushartushar/Puppeteer) - Detect configuration smells in Puppet code
 - [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories.
 - [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code.
 - [reaper](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
