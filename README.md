@@ -59,6 +59,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 - [Boa](http://boa.cs.iastate.edu/) - Domain-specific language and infrastructure that eases mining software repositories.
 - [ckjm](http://www.spinellis.gr/sw/ckjm/) - Chidamber and Kemerer Java Metrics.
+- [Coming](https://github.com/SpoonLabs/coming/) - A Java framework for analyzing code changes and mining instances of change patterns from Git repositories.
 - [DbDeo](https://github.com/tushartushar/DbDeo) - Extract embedded SQL statements and detect database schema smells.
 - [Designite](http://www.designite-tools.com) - Compute source code metrics and detect a variety of implementation, design, and architecture smells for C#.
 - [DesigniteJava](https://github.com/tushartushar/DesigniteJava) - Compute source code metrics and detect a variety of implementation and design smells for Java.
