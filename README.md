@@ -43,7 +43,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [GHTorrent](http://ghtorrent.org/) - Scalable, queriable, offline mirror of data offered through the GitHub REST API.
 - [GitHub Bug Dataset](http://www.inf.u-szeged.hu/~ferenc/papers/GitHubBugDataSet/) - Bug Dataset of 15 Java open-source projects characterized by static source code metrics.
 - [GitHub on Google BigQuery](https://cloud.google.com/bigquery/public-data/github) - GitHub data accessible through Google's BigQuery platform.
-- [Grammar Zoo](http://slebok.github.io/zoo/) - Collection of grammars of DSLs and GPLs, some extracted from metamodels and document schemata
+- [Grammar Zoo](http://slebok.github.io/zoo/) - Collection of grammars of DSLs and GPLs, some extracted from metamodels and document schemata.
 - [KaVE](http://www.kave.cc/datasets) - Developer tool interaction data.
 - [Maven metrics](https://github.com/bkarak/data_msr2015) - Collection of software complexity & sizing metrics for the [Maven Repository](https://maven.apache.org).
 - [Maven Dependency Graph](https://zenodo.org/record/1489120) - Snapshot of the whole Maven Central taken on September 6, 2018, stored in a graph database.
