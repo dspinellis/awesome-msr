@@ -57,6 +57,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [Ultimate Debian Database (UDD)](https://wiki.debian.org/UltimateDebianDatabase) - Data about various aspects of Debian (e.g. packages, bugs, mainteners) in the same SQL database.
 - [Unified Bug Dataset](http://www.inf.u-szeged.hu/~ferenc/papers/UnifiedBugDataSet/) - Static source code based datasets which includes the Bugcatchers Bug Dataset, the [Bug Prediction Dataset](http://bug.inf.usi.ch/index.php), the [Eclipse Bug Dataset](https://www.st.cs.uni-saarland.de/softevo/bug-data/eclipse/), the [GitHub Bug Dataset](http://www.inf.u-szeged.hu/~ferenc/papers/GitHubBugDataSet/), some datasets from the [PROMISE](http://promise.site.uottawa.ca/SERepository/datasets-page.html) repository.
 - [Unix history](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution.
+- [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout](https://github.com/dspinellis/cscout/). 
 
 ## Tools
 
