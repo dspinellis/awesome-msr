@@ -52,6 +52,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [npm-miner](https://github.com/AuthEceSoftEng/msr-2018-npm-miner) - The dataset contains the analysis results of 5 open source software quality tools eslint, escomplex, nsp, jsinspect and sonarjs for 2000 popular (in terms of stars and downloads) npm packages.
 - [OCL Expressions on GitHub](https://github.com/tue-mdse/ocl-dataset) - Data set of 9188 OCL expressions originating from 504 EMF meta-models in 245 systematically selected GitHub repositories.
 - [RepoReapers Data Set](https://reporeapers.github.io) - Data set containing a collection of _engineered software projects_ from GHTorrent.
+- [Software Heritage Graph Dataset](https://doi.org/10.5281/zenodo.2583978) - Graph of the development history and file metadata of >80 million software projects from various forges (GitHub, Gitlab, Debian, PyPI, Google Code, ...) in a deduplicated and unified representation ([paper here](https://dl.acm.org/citation.cfm?id=3341907)).
 - [STAMINA](http://stamina.chefbe.net/download) - (STAte Machine INference Approaches) data are used to benchmark techniques for learning deterministic finite state machines (FSMs).
 - [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
 - [TravisTorrent](http://travistorrent.testroots.org) - Provides free and easy-to-use Traivs CI build analyses.
