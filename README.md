@@ -43,7 +43,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [Findbugs-maven](https://github.com/istlab/maven_bug_catalog) - Set of FindBugs reports for the Java projects of the [Maven repository](https://maven.apache.org).
 - [GHTorrent](http://ghtorrent.org/) - Scalable, queriable, offline mirror of data offered through the GitHub REST API.
 - [GitHub Bug Dataset](http://www.inf.u-szeged.hu/~ferenc/papers/GitHubBugDataSet/) - Bug Dataset of 15 Java open-source projects characterized by static source code metrics.
-- [GitHub Java Corpus](http://groups.inf.ed.ac.uk/cup/javaGithub/) - Corpus of 14765 Java projects filtered to have an above-average quality.
+- [GitHub Java Corpus](http://groups.inf.ed.ac.uk/cup/javaGithub/) - Large scale corpus of 14765 Java projects filtered to have an above-average quality.
 - [GitHub on Google BigQuery](https://cloud.google.com/bigquery/public-data/github) - GitHub data accessible through Google's BigQuery platform.
 - [Grammar Zoo](http://slebok.github.io/zoo/) - Collection of grammars of DSLs and GPLs, some extracted from metamodels and document schemata.
 - [KaVE](http://www.kave.cc/datasets) - Developer tool interaction data.
