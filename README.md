@@ -38,7 +38,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [CoREBench](http://www.comp.nus.edu.sg/%7Erelease/corebench/) - Collection of 70 realistically Complex Regression Errors that were systematically extracted from the repositories and bug reports of four open-source software projects: Make, Grep, Findutils, and Coreutils.
 - [Cryptocurrency GitHub Activity and Market Cap Dataset](https://rvantonder.github.io/CryptOSS/) - Activity such as commits, stars, prices, and market cap of over 200 cryptocurrency projects on GitHub over time. Raw, historic data is also [available](https://zenodo.org/record/2595588#.XRuzuBNKhSM).
 - [Defects4J](https://github.com/rjust/defects4j) - Collection of 395 reproducible bugs collected with the goal of advancing software testing research.
-- [Eclipse AERI stacktraces](https://software-data.org/datasets/aeri-stacktraces) - Collection of stacktraces of Exceptions encountered by users of the Eclipse IDE, as retrieved by the AERI reporting system..
+- [Eclipse AERI stacktraces](http://download.eclipse.org/scava/datasets/aeri_stacktraces/aeri_stacktraces.html) - Collection of stacktraces of Exceptions encountered by users of the Eclipse IDE, as retrieved by the AERI reporting system.
 - [Enron Spreadsheets and Emails](https://figshare.com/articles/Enron_Spreadsheets_and_Emails/1221767) - All the spreadsheets and emails used in the paper 'Enron's Spreadsheets and Related Emails: A Dataset and Analysis'.
 - [Findbugs-maven](https://github.com/istlab/maven_bug_catalog) - Set of FindBugs reports for the Java projects of the [Maven repository](https://maven.apache.org).
 - [GHTorrent](http://ghtorrent.org/) - Scalable, queriable, offline mirror of data offered through the GitHub REST API.
@@ -53,7 +53,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [npm-miner](https://github.com/AuthEceSoftEng/msr-2018-npm-miner) - The dataset contains the analysis results of 5 open source software quality tools eslint, escomplex, nsp, jsinspect and sonarjs for 2000 popular (in terms of stars and downloads) npm packages.
 - [OCL Expressions on GitHub](https://github.com/tue-mdse/ocl-dataset) - Data set of 9188 OCL expressions originating from 504 EMF meta-models in 245 systematically selected GitHub repositories.
 - [RepoReapers Data Set](https://reporeapers.github.io) - Data set containing a collection of _engineered software projects_ from GHTorrent.
-- [Software Heritage Graph Dataset](https://doi.org/10.5281/zenodo.2583978) - Graph of the development history and file metadata of >80 million software projects from various forges (GitHub, Gitlab, Debian, PyPI, Google Code, ...) in a deduplicated and unified representation ([paper here](https://dl.acm.org/citation.cfm?id=3341907)).
+- [Software Heritage Graph Dataset](https://doi.org/10.5281/zenodo.2583978) - Graph of the development history and file metadata of >80 million software projects from various forges (GitHub, Gitlab, Debian, PyPI, Google Code, etc) in a deduplicated and unified representation ([paper here](https://dl.acm.org/citation.cfm?id=3341907)).
 - [STAMINA](http://stamina.chefbe.net/download) - (STAte Machine INference Approaches) data are used to benchmark techniques for learning deterministic finite state machines (FSMs).
 - [Stack Exchange](https://archive.org/details/stackexchange) - Anonymized dump of all user-contributed content on the Stack Exchange network.
 - [TravisTorrent](http://travistorrent.testroots.org) - Provides free and easy-to-use Traivs CI build analyses.
@@ -84,7 +84,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - Outlets exclusively devoted to empirical software engineering research
   - [Empirical Software Engineering journal](https://link.springer.com/journal/10664)
   - [MSR: Mining Software Repositories conference](https://www.msrconf.org/)
-  - [PROMISE: Predictive Models and Data Analytics in Software Engineering conference](http://promisedata.org/)
+  - [PROMISE: Predictive Models and Data Analytics in Software Engineering conference](http://promise.site.uottawa.ca/SERepository/)
 - Outlets that publish empirical software engineering research
   - [ACM Transactions on Software Engineering and Methodology (TOSEM)](https://dl.acm.org/citation.cfm?id=J790)
   - [ESEC/FSE: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering](https://www.esec-fse.org/)
