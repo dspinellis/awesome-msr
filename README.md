@@ -62,7 +62,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [Unix history](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution.
 
 ## Tools
-- [astminer](https://github.com/JetBrains-Research/astminer) — Library and tool for mining of path-based representations of code and other data derived from ASTs.
+- [astminer](https://github.com/JetBrains-Research/astminer) - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 - [Boa](http://boa.cs.iastate.edu/) - Domain-specific language and infrastructure that eases mining software repositories.
 - [buckwheat](https://github.com/JetBrains-Research/buckwheat) — Multi-language tokenizer for extracting identifiers from source code.
 - [ckjm](http://www.spinellis.gr/sw/ckjm/) - Chidamber and Kemerer Java Metrics.
@@ -80,7 +80,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [PyDriller](https://github.com/ishepard/pydriller) - Python Framework to analyse Git repositories.
 - [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code.
 - [reaper](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
-— [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) — Library/API for detection of refactorings in changes of Java code.
+- [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) - Library/API for detection of refactorings in changes of Java code.
 - [VulData7](https://github.com/electricalwind/data7) - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git).
 
 ## Research Outlets
