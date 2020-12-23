@@ -64,7 +64,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 ## Tools
 - [astminer](https://github.com/JetBrains-Research/astminer) - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 - [Boa](http://boa.cs.iastate.edu/) - Domain-specific language and infrastructure that eases mining software repositories.
-- [buckwheat](https://github.com/JetBrains-Research/buckwheat) — Multi-language tokenizer for extracting identifiers from source code.
+- [buckwheat](https://github.com/JetBrains-Research/buckwheat) - Multi-language tokenizer for extracting identifiers from source code.
 - [ckjm](http://www.spinellis.gr/sw/ckjm/) - Chidamber and Kemerer Java Metrics.
 - [Coming](https://github.com/SpoonLabs/coming/) - A Java framework for analyzing code changes and mining instances of change patterns from Git repositories.
 - [CryptOSS](https://github.com/rvantonder/CryptOSS) - Mine GitHub activity and market cap data for cryptocurrency projects.
