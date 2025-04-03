@@ -28,6 +28,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   - [Software Engineering Artifacts Can Really Assist Future Tasks](http://zenodo.org/communities/seacraft)
   - [Empirical Software Engineering](https://zenodo.org/communities/empirical-software-engineering/)
   - [Mining Software Repositories](https://zenodo.org/communities/msr/)
+- [Directory of MSR Datasets](https://authecesofteng.github.io/directory-msr-datasets/)
 
 ## Data Sets
 
