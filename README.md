@@ -21,6 +21,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Repositories
 
+- [ESEUR](https://github.com/Derek-Jones/ESEUR-code-data) All data used in the openly available book [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
 - [Directory of MSR Datasets](https://authecesofteng.github.io/directory-msr-datasets/)
 - [FLOSSmole](https://flossmole.org/collection_details) - Collaborative collection and analysis of free/libre/open source project data.
 - [PROMISE](http://promise.site.uottawa.ca/SERepository/datasets-page.html) - About 20 datasets related to software engineering research.
