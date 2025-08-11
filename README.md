@@ -73,6 +73,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [DbDeo](https://github.com/tushartushar/DbDeo) - Extract embedded SQL statements and detect database schema smells.
 - [Designite](http://www.designite-tools.com) - Compute source code metrics and detect a variety of implementation, design, and architecture smells for C#.
 - [DesigniteJava](https://github.com/tushartushar/DesigniteJava) - Compute source code metrics and detect a variety of implementation and design smells for Java.
+- [GitEvo](https://github.com/andrehora/gitevo) - Code evolution analysis for Git repositories.
 - [Diggit](https://github.com/jrfaller/diggit) - Agile Ruby Tool to analyze Git repositories.
 - [GrimoireLab](http://grimoirelab.github.io/) - Free/Libre/Open Source tools for Software Development Analytics.
 - [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - Lean Java DSL to mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories.
